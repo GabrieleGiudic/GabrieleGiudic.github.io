@@ -9,6 +9,7 @@
     <a href="https://orcid.org/0009-0003-0755-7397"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
     <a href="mailto:gabriele.giudic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div> 
+
 ---
 
 ## 👨‍💻 About Me

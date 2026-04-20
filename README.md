@@ -1,80 +1,72 @@
-# Gabriele Giudici
-
-Quantitative Researcher | PhD Candidate in Analytics for Economics & Management | Deloitte Consulting
-
----
-
-## About Me
-
-I am a **Quantitative Researcher** focused on the full development lifecycle of data-driven solutions, from research questions to production deployment. My work combines **statistical modeling, machine learning, deep learning and computer vision**, with applications in **finance** and **sports analytics**.
-
-I am currently a **PhD candidate at the University of Brescia (BDsports Lab)**, where my research explores how deep learning and vision-language models can extract statistical insights from basketball games. In parallel, I work as a **Consultant at Deloitte Consulting**, contributing to quantitative research and production systems for equity, FX and commodity markets.
-
----
-
-## Research & Projects
-
-### 🏀 Basketball Action Recognition (BARD)
-
-* Creator and maintainer of the **BARD dataset** for basketball action recognition
-* Explored CNNs, Transformers and Vision-Language Models
-* Designed a custom buffer-based VLM architecture for domain-specific challenges
-* Benchmarked models including **YOLO, CLIP, Gemini and OLMo** on CINECA HPC
-
-🔗 Project: [https://github.com/GabrieleGiudic/BARD](https://github.com/GabrieleGiudic/BARD)
-🔗 Paper: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611722](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5611722)
-
-### 📈 Quantitative Finance & ML
-
-* Equity volatility surface calibration under sparse data
-* Kriging (Bayesian), Wing and Local Volatility models
-* Research-to-production pipelines (Python → C++)
-* Asset allocation with neural networks and historical market data
+<div align="center">
+  <h1>Hi there, I'm Gabriele Giudici 👋</h1>
+  <h3>Quantitative Researcher | PhD Candidate in Analytics for Economics & Management</h3>
+  
+  <p>
+    <a href="https://github.com/GabrieleGiudic"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.linkedin.com/in/gabriele-giudici/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://huggingface.co/GabrieleGiudici"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Hugging Face" /></a>
+    <a href="https://orcid.org/0000-0003-4399-7018"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+    <a href="mailto:gabriele.giudic@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
 
 ---
 
-## Experience
+## 👨‍💻 About Me
 
-### Deloitte Consulting — Consultant (2019–Present)
-
-* Quantitative research for Equity, FX and Commodity desks
-* Built pricing and calibration tools used in production
-* Machine learning for asset allocation and hedging analysis
-
-### University of Brescia — PhD Researcher & Lecturer (2022–Present)
-
-* PhD in Analytics for Economics and Management (Statistics)
-* Lecturer for Statistics courses
-* Member of BDsports Lab
+I am a **Quantitative Researcher** focused on the full development lifecycle of data-driven solutions—from framing the initial research questions to final production deployment. My work bridges the gap between **statistical modeling, machine learning, deep learning, and computer vision**, with specialized applications in both **finance** and **sports analytics**.
 
 ---
 
-## Education
+## 🛠️ Skills & Tech Stack
 
-* **PhD in Analytics for Economics and Management**, University of Brescia
-* **MSc in Finance**, University of Milano-Bicocca (110/110 cum laude)
-* **BSc in Economics**, University of Milano-Bicocca (110/110 cum laude)
-
----
-
-## Skills
-
-**Programming:** Python, C++, R, VBA
-**ML & AI:** Deep Learning, Computer Vision, Transformers, Vision-Language Models
-**Quant Finance:** Volatility Modeling, Derivatives, Asset Allocation
-**Tools:** Git, Excel, TensorFlow, Keras, Scikit-learn
+| Category | Skills / Tools |
+| :--- | :--- |
+| **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/> **VBA** |
+| **ML & AI** | Deep Learning, Computer Vision, Transformers, VLMs <br> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" alt="Keras"/> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/> |
+| **Quant Finance** | Volatility Modeling, Derivatives, Asset Allocation |
+| **Tools** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> Excel, CINECA HPC |
 
 ---
 
-## Links
+## 🚀 Research & Projects
 
-* GitHub: [https://github.com/GabrieleGiudic](https://github.com/GabrieleGiudic)
-* LinkedIn: [https://www.linkedin.com/in/gabriele-giudici/](https://www.linkedin.com/in/gabriele-giudici/)
-* ORCID: [https://orcid.org/0000-0003-4399-7018](https://orcid.org/0000-0003-4399-7018)
-* University profile: [https://aem.unibs.it/PhD-Students](https://aem.unibs.it/PhD-Students)
+### 🏀 BARD: A Basketball Action Recognition Dataset for multi-label classification
+> *Creator and maintainer of the BARD dataset for basketball action recognition.*
+* 🔗 **Project:** [GitHub Repository]([https://github.com/GabrieleGiudic/BARD)
+* 🔗 **Paper:** [BARD: A Basketball Action Recognition Dataset for multi-label classification](https://www.sciencedirect.com/science/article/pii/S1077314226000809)
+
+
+### 🎽🔢⛹️‍♀️ E-BARD: A Multi-Task Extension of the Basketball Action Recognition Dataset for Player Detection, Team Attribution and Jersey Number Recognition 
+> *Creator and maintainer of the E-BARD dataset for basketball action recognition.*
+* 🔗 **Project:** [GitHub Repository]([https://github.com/GabrieleGiudic/E-BARD)
+* 🔗 **Paper:** E-BARD: A Multi-Task Extension of the Basketball Action Recognition Dataset for Player Detection, Team Attribution and Jersey Number Recognition
+
+
+### 📈 Quantitative Finance & Machine Learning
+* Calibrated Equity volatility surfaces under sparse data conditions.
+* Implemented Kriging (Bayesian), Wing, and Local Volatility models.
+* Built end-to-end research-to-production pipelines (**Python → C++**).
+* Optimized asset allocation utilizing neural networks and historical market data.
 
 ---
 
-## Contact
+## 💼 Experience
 
-📧 [gabriele.giudic@gmail.com](mailto:gabriele.giudic@gmail.com)
+**Deloitte Consulting** | *Consultant* <br>
+📅 `2019 – Present`
+* Conduct quantitative research for Equity, FX, and Commodity desks.
+* Build pricing and calibration tools currently utilized in production environments.
+* Apply machine learning techniques for asset allocation and hedging analysis.
+
+**University of Brescia** | *PhD Researcher & Lecturer* <br>
+📅 `2022 – Present`
+* Researcher at the [BDsports Lab](https://aem.unibs.it/PhD-Students).
+* Lecturer for undergraduate/graduate Statistics courses.
+
+---
+
+## 🎓 Education
+
+* 🏛️ **PhD in Analytics for Economics and Management** — *University of Brescia*
+* 🎓 **MSc in Finance** — *University of Milano-Bicocca* (110/110 cum laude)

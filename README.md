@@ -33,13 +33,13 @@ I am a **Quantitative Researcher** focused on the full development lifecycle of 
 
 ### 🏀 BARD: A Basketball Action Recognition Dataset for multi-label classification
 > *Creator and maintainer of the BARD dataset for basketball action recognition.*
-* 🔗 **Project:** [GitHub Repository]([https://github.com/GabrieleGiudic/BARD)
+* 🔗 **Project:** [GitHub Repository](https://github.com/GabrieleGiudic/BARD)
 * 🔗 **Paper:** [BARD: A Basketball Action Recognition Dataset for multi-label classification](https://www.sciencedirect.com/science/article/pii/S1077314226000809)
 
 
 ### 🎽🔢⛹️‍♀️ E-BARD: A Multi-Task Extension of the Basketball Action Recognition Dataset for Player Detection, Team Attribution and Jersey Number Recognition 
 > *Creator and maintainer of the E-BARD dataset for basketball action recognition.*
-* 🔗 **Project:** [GitHub Repository]([https://github.com/GabrieleGiudic/E-BARD)
+* 🔗 **Project:** [GitHub Repository](https://github.com/GabrieleGiudic/E-BARD)
 * 🔗 **Paper:** E-BARD: A Multi-Task Extension of the Basketball Action Recognition Dataset for Player Detection, Team Attribution and Jersey Number Recognition
 
 
